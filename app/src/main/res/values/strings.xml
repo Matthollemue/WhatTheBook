@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">What the Book?</string>
+    <string name="loading">"Loading! "</string>
+    <string name="loading_failed">Loading has failed. Either no results or no internet.</string>
+    <string name="retry">Retry?</string>
+    <string name="what_the_book">Book Me Up!</string>
+    <string name="no_book_cover">No book cover found</string>
+    <string name="more_options">More options</string>
+    <string name="in_title">in Title</string>
+    <string name="in_author">in Author</string>
+    <string name="in_publisher">in Publisher</string>
+    <string name="in_isbn">in ISBN</string>
+</resources>

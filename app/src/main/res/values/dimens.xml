@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_content_padding">2dp</dimen>
+    <dimen name="card_title_spacer">8dp</dimen>
+    <dimen name="divider_thickness">2dp</dimen>
+    <dimen name="spacer_between_title_and_content">16dp</dimen>
+    <dimen name="padding_medium">4dp</dimen>
+    <dimen name="padding_small">1dp</dimen>
+</resources>
