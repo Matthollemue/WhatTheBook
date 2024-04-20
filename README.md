@@ -3,7 +3,7 @@ This project is an Android Basics with Compose App.
 
 The app takes a user input and searches the Google Books API using Retrofit 2 and displays a grid of book covers with optional details.
 
-This project really tested my knowledge of making apps in Android Studio! There were a lot of challenges that I eventually overcame! 
+This project really tested my knowledge of making apps in Android Studio! There were a lot of challenges that I had to overcome in order to produce a functioning app! 
 
 For a good feel and user experience I have added in some elements of Animation that I have researched in addition to the basic app functionality.
 
